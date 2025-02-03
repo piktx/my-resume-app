@@ -2,9 +2,9 @@
 
 ![Streamlit](https://img.shields.io/badge/Made_with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 ![Python](https://img.shields.io/badge/Powered_by-Python-3776AB?style=for-the-badge&logo=python)
-![AI](https://img.shields.io/badge/Specialization-Business_Intelligence-FFD700?style=for-the-badge)
+![AI](https://img.shields.io/badge/Specialization-Machine_Learning-FFD700?style=for-the-badge)
 
-**Dynamic BI Consultant** | Power BI Expert | Machine Learning Practitioner | Open Source Contributor
+**Data Scientist** | Power BI Expert | Machine Learning Practitioner | Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pikt)
 [![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github)](https://github.com/piktx)
@@ -13,7 +13,7 @@
 ## 🚀 Professional Overview
 **4+ years experience** in transforming raw data into actionable insights. Specialized in:
 
-- 📊 Power BI & Microsoft Fabric Dashboards
+- 📊 Python and Data Science
 - 🤖 Machine Learning & Predictive Analytics
 - 🔄 ETL Optimization & Data Warehousing
 - 🗣️ Natural Language Data Analysis (PandasAI)
@@ -80,12 +80,11 @@
 ## 🌐 Language Proficiency
 
 - **English**: 🟢🟢🟢🟢🟢 (Fluent)  
-- **Hindi**: 🟢🟢🟢⚪⚪ (Fluent)  
+- **Hindi**: 🟢🟢🟢🟢🟢 (Fluent)  
 
 ## 📬 Let's Connect!
 
 [![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.google.com)
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Website-FF7139?style=for-the-badge)](https://yourportfolio.com)
 
 ```diff
 + Open for consulting opportunities
