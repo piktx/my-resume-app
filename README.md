@@ -90,4 +90,4 @@
 ```diff
 + Open for consulting opportunities
 + Available for technical collaborations
-- Not currently seeking full-time roles
++ currently seeking full-time roles
