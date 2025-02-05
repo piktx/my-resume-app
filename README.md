@@ -4,31 +4,31 @@
 ![Python](https://img.shields.io/badge/Powered_by-Python-3776AB?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/Specialization-Machine_Learning-FFD700?style=for-the-badge)
 
-**Data Scientist** | Power BI Expert | Machine Learning Practitioner | Open Source Contributor
+**Data Scientist** | Python Enthusiast | Machine Learning Practitioner | Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pikt)
 [![GitHub](https://img.shields.io/badge/View-GitHub-181717?style=flat-square&logo=github)](https://github.com/piktx)
 [![Email](https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&logo=gmail)](mailto:businessbypkt@gmail.com)
 
 ## 🚀 Professional Overview
-**4+ years experience** in transforming raw data into actionable insights. Specialized in:
+**5+ years of experience** in transforming raw data into actionable insights. Specialized in:
 
 - 📊 Python and Data Science
 - 🤖 Machine Learning & Predictive Analytics
 - 🔄 ETL Optimization & Data Warehousing
-- 🗣️ Natural Language Data Analysis (PandasAI)
+- 🗣️ Natural Language Processing
 
 ## 🛠️ Tech Stack Proficiency
 
 ### Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0078D4?style=for-the-badge&logo=postgres)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql-server)
 
 ### Programming & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-150458?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=pytorch)
 
 ### Advanced Analytics
 ![Time Series](https://img.shields.io/badge/ARIMA_SARIMA-109649?style=for-the-badge)
@@ -38,27 +38,17 @@
 ## 💼 Professional Experience
 
 <details>
-<summary>📈 Business Intelligence Consultant @ CA Karrierepartner (2023-Present)</summary>
+<summary>📈 Data Engineer @ Bainbridge (2023 - 2024)</summary>
 
-- Delivered **150+ Power BI dashboards** with 95% user adoption rate
-- Optimized ETL processes reducing data processing time by **40%**
-- Implemented Microsoft Fabric solutions serving **1K+ daily users**
+- Analyzed trends and patterns in customer behaviors, improving insights by **30%**.  
+- Designed surveys and polls, increasing response rates by **25%**.  
+- Built end-to-end predictive models using ML algorithms, achieving **85% prediction accuracy**.  
+- Streamlined ETL processes, improving data pipeline stability and reducing errors by **15%**.  
 </details>
 
 <details>
-<summary>🔬 Data Science Specialist @ Careerera (2021-2023)</summary>
-
-- Developed ML models with **85% prediction accuracy**
-- Automated reporting workflows saving **20h/week**
-- Conducted **50+ workshops** on data visualization best practices
-</details>
-
-<details>
-<summary>🧠 PandasAI Core Contributor</summary>
-
-- Contributed **15+ PRs** to open-source NLP data analysis tool
-- Improved query response accuracy by **30%**
-- Authored **5 technical guides** for community documentation
+<summary>🔬 Data Analyst @ DataDrive (2019-2022)</summary>
+  
 </details>
 
 ## 🏆 Notable Projects
