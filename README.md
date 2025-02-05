@@ -1,7 +1,7 @@
 # 👨💻 Piyush Kumar Tiwari - Interactive CV Portfolio
 
 ![Streamlit](https://img.shields.io/badge/Made_with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Python](https://img.shields.io/badge/Powered_by-Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Powered_by-Python-90EE90?style=for-the-badge&logo=python)
 ![AI](https://img.shields.io/badge/Specialization-Machine_Learning-FFD700?style=for-the-badge)
 
 **Data Scientist** | Python Enthusiast | Machine Learning Practitioner | Open Source Contributor
@@ -26,7 +26,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql-server)
 
 ### Programming & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-90EE90?style=for-the-badge&logo=python)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-150458?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-F7931E?style=for-the-badge&logo=pytorch)
 
@@ -56,8 +56,8 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [Realtime Voice Bot](https://github.com/piktx/realtime_voice_bot) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![Whisper](https://img.shields.io/badge/-OpenAI_Whisper-412991) | Real-time AI voice assistant framework |
-| [Gemini 2.0 Multimodal](https://github.com/piktx/gemini2.0_multimodal_chatbot) | ![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B) | Advanced multimodal chatbot |
+| [AI news generator](https://github.com/piktx/ai-news-gen) | ![Python](https://img.shields.io/badge/-Python-90EE90?logo=python) ![CrewAI](https://img.shields.io/badge/-CrewAI-412991) | AI news and blog generator |
+| [Gemini 2.0 Multimodal](https://github.com/piktx/flash-mutimodal-chatbot) | ![Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B) | Advanced multimodal chatbot |
 | [RAG Excel System](https://github.com/piktx/excel-rag) | ![Llama](https://img.shields.io/badge/-Llama_3.2-FF6F00) ![IBM](https://img.shields.io/badge/-IBM_Dockling-052FAD) | Local document intelligence system |
 
 
