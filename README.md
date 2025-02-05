@@ -16,7 +16,7 @@
 - 📊 Python and Data Science
 - 🤖 Machine Learning & Predictive Analytics
 - 🔄 ETL Optimization & Data Warehousing
-- 🗣️ Natural Language Processing
+- 🗣️ Reinforcement learning
 
 ## 🛠️ Tech Stack Proficiency
 
@@ -48,7 +48,13 @@
 
 <details>
 <summary>🔬 Data Analyst @ DataDrive (2019-2022)</summary>
-  
+
+- Improved data accuracy by **20%**, enabling robust data management.  
+- Analyzed large datasets using statistical techniques, enhancing data-driven decisions for partners and customers.  
+- Identified trends and correlations in complex data, visualized insights, and supported strategic decision-making.  
+- Delivered **10+ monthly reports** by compiling data, updating spreadsheets, and conducting research.  
+- Resolved data collection and reporting bugs, reducing errors by **15%** through root cause analysis.  
+
 </details>
 
 ## 🏆 Notable Projects
@@ -60,17 +66,10 @@
 | [RAG Excel System](https://github.com/piktx/RAG-over-Excel-using-IBM-Dockling-Llama-3.2-100-Locally-) | ![Llama](https://img.shields.io/badge/-Llama_3.2-FF6F00) ![IBM](https://img.shields.io/badge/-IBM_Dockling-052FAD) | Local document intelligence system | [Demo](#) |
 
 
-| Certification | Issuer | Year |
-|---------------|--------|-----|
-| Microsoft Azure AI Fundamentals | Microsoft | 2023 |
-| Data Visualization Specialist | PwC Switzerland | 2022 |
-| Machine Learning Professional | Alteryx | 2021 |
-| Danish Language PD2 | Danish Education | 2023 |
-
 ## 🌐 Language Proficiency
 
-- **English**: 🟢🟢🟢🟢🟢 (Fluent)  
-- **Hindi**: 🟢🟢🟢🟢🟢 (Fluent)  
+- **English**: **🟢🟢🟢🟢🟢** (Fluent)  
+- **Hindi**: **🟢🟢🟢🟢🟢** (Fluent)  
 
 ## 📬 Let's Connect!
 
