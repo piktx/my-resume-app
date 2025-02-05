@@ -84,7 +84,7 @@
 
 ## 📬 Let's Connect!
 
-[![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.google.com)
+[![Calendar](https://img.shields.io/badge/Schedule_Meeting-Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar)](https://calendar.app.google/FsGercyJsWhBMhGr8)
 
 ```diff
 + Open for consulting opportunities
