@@ -2,7 +2,7 @@ import streamlit as st
 
 # Title and header
 st.title("Interactive CV Viewer")
-st.header("Martin Khristi - Business Intelligence Consultant")
+st.header("Piyush Kumar Tiwari - Data Scientist")
 
 # About me
 st.subheader("About Me")
@@ -14,44 +14,39 @@ Expertise in Power BI, Microsoft Fabric, Python programming, and Machine Learnin
 # Contact Information
 st.subheader("Contact Information")
 st.write("""
-- **Phone:** +45 22 28 65 66  
-- **Email:** mkhristi32@gmail.com  
-- **Address:** Fjenneslevvej 12 st th, 2700 Brønshøj  
-- **LinkedIn:** [linkedin.com/in/martinkhristi](https://linkedin.com/in/martinkhristi)  
-- **GitHub:** [github.com/martinkhristi](https://github.com/martinkhristi)
+- **Email:** businessbypkt@gmail.com  
+- **Address:** Lucknow, India  
+- **LinkedIn:** [linkedin.com/in/pikt](https://linkedin.com/in/pikt)  
+- **GitHub:** [github.com/piktx](https://github.com/piktx)
 """)
 
 # Experience Section
 st.subheader("Experience")
 st.write("""
-### Business Intelligence Consultant  
-**CA - Karrierepartner og A-kasse | June 2023 – Present | Copenhagen, Denmark | On-site**  
-- Delivered actionable insights using Power BI and Microsoft Fabric to support decision-making.
-- Managed ETL processes and optimized databases, ensuring data accuracy and availability.
-- Designed and developed interactive dashboards tailored to business needs, enhancing operational efficiency.
-- Collaborated across teams to implement data-driven strategies that improved customer satisfaction and retention.
+### Data Engineer 
+**BainBridge | Jan 2023 - Jan 2024 | Remote**  
+- Analyzed trends and patterns in customer behaviors, improving insights by **30%**.  
+- Designed surveys and polls, increasing response rates by **25%**.  
+- Built end-to-end predictive models using ML algorithms, achieving **85% prediction accuracy**.  
+- Streamlined ETL processes, improving data pipeline stability and reducing errors by **15%**. 
 
-### Data Science Specialist (Intern)  
-**Careerera - SNVA EduTech | April 2021 – January 2023 | Remote**  
-- Supported data preprocessing and transformation for analytics and reporting tasks.
-- Built machine learning models using Python and R, applying advanced statistical techniques.
-- Designed and presented dynamic dashboards in Power BI to communicate data insights.
-
-### Contributor and Tester  
-**PandasAI Open-Source Project | Ongoing | Remote**  
-- Actively contributed to and tested the development of Pandas AI, an innovative open-source tool for performing data analysis using natural language.
-- Collaborated with the development team to enhance the tool's functionality, ensuring efficient and accurate data analysis workflows.
-- Tested new features and provided valuable feedback to improve performance and user experience.
+### Data Analyst  
+**DataDrive | Feb 2019 - March 2022 | Remote**  
+- Improved data accuracy by **20%**, enabling robust data management.  
+- Analyzed large datasets using statistical techniques, enhancing data-driven decisions for partners and customers.  
+- Identified trends and correlations in complex data, visualized insights, and supported strategic decision-making.  
+- Delivered **10+ monthly reports** by compiling data, updating spreadsheets, and conducting research.  
+- Resolved data collection and reporting bugs, reducing errors by **15%** through root cause analysis.
 """)
 
 # Skills
 st.subheader("Skills")
 st.write("""
-- **Business Intelligence:** Power BI, Microsoft Fabric, ETL Processes  
-- **Programming:** Python, SQL  
-- **Database Management:** SQL, Optimization, Data Warehousing  
+- **Business Intelligence:** Power BI, Tableau, ETL Processes  
+- **Programming:** Python, PostgreSQL, PyTorch   
+- **Database Management:** SQL Server, MongoDB, Data Warehousing  
 - **Natural Language Analytics:** PandasAI  
-- **Machine Learning:** Model Development, Feature Engineering  
+- **Machine Learning:** Model Development, Feature Engineering, Reinforcement Learning 
 - **Time Series Forecasting:** ARIMA, SARIMA, Prophet  
 """)
 
@@ -66,30 +61,11 @@ st.write("""
 - **[Chat with Docs](https://github.com/martinkhristi/Chat-with-Docs-powered-by-ModernBert-and-Llama-3.2-100-open-source-and-100-secure-):** Chat with documents using ModernBERT and Llama 3.2, open-source and secure.
 """)
 
-# Education
-st.subheader("Education")
-st.write("""
-**Bachelor of Computer Science**  
-2020 - MS University
-""")
-
-# Certifications
-st.subheader("Awards and Certifications")
-st.write("""
-- Data Fundamentals – IBM SkillsBuild  
-- Machine Learning Fundamentals – Alteryx  
-- Microsoft Certified Azure AI Fundamentals  
-- Post Graduation Program – Career-era  
-- Tata - Data Visualization: Empowering Business with Effective Insights Job Simulation  
-- PwC Switzerland - Power BI Job Simulation  
-- Danish Language PD 2  
-""")
-
 # Languages
 st.subheader("Languages")
 st.write("""
 - English: Fluent  
-- Danish: Intermediate  
+- Hindi: Fluent  
 """)
 
 # Hobbies
