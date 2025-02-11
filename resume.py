@@ -8,7 +8,7 @@ st.header("Piyush Kumar Tiwari - Data Scientist")
 st.subheader("About Me")
 st.write("""
 Dynamic and detail-oriented Data Scientist with over 5 years of hands-on experience. 
-Expertise in Power BI, SQL, Python programming, and Machine Learning. Strong focus on Reinforcement Leaning, GEN AI, and driving actionable insights for decision-making.
+Expertise in Python, Machine Learning, SQL. Strong focus on Reinforcement Leaning, GEN AI, and driving actionable insights for decision-making using ML models.
 """)
 
 # Contact Information
@@ -68,7 +68,6 @@ st.write("""
 # Hobbies
 st.subheader("Hobbies")
 st.write("""
-- Listening to music  
 - Playing Cricket  
 - Reading books        
 - Yoga  
