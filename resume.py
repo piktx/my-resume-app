@@ -16,14 +16,14 @@ st.subheader("Contact Information")
 st.write("""
 - **Email:** businessbypkt@gmail.com  
 - **Address:** Lucknow, India  
-- **LinkedIn:** [linkedin.com/in/pikt](https://linkedin.com/in/pikt)  
+- **LinkedIn:** [linkedin.com/in/pikt](https://linkedin.com/in/pikt)
 - **GitHub:** [github.com/piktx](https://github.com/piktx)
 """)
 
 # Experience Section
 st.subheader("Experience")
 st.write("""
-### Data Engineer 
+### Data Engineer
 **BainBridge | Jan 2023 - Jan 2024 | Remote**  
 - Analyzed trends and patterns in customer behaviors, improving insights by **30%**.  
 - Designed surveys and polls, increasing response rates by **25%**.  
